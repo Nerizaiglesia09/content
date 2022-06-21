@@ -29,3 +29,4 @@ A string.
 ## Browser compatibility
 
 {{Compat}}
+requestMediaKeySystemAccess(keySystem, supportedConfigurations)
